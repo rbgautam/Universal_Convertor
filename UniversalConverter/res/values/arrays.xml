@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="conversions">
+        <item>Acres to Square Miles</item>
+        <item>Atmospheres to Pascals</item>
+        <item>Bars to Pascals</item>
+        <item>Degrees Celsius to Degrees Fahrenheit</item>
+        <item>Degrees Fahrenheit to Degrees Celsius</item>
+        <item>Dynes to Newtons</item>
+        <item>Feet/Second to Metres/Second</item>
+        <item>Fluid Ounces (UK) to Litres</item>
+        <item>Fluid Ounces (US) to Litres</item>
+        <item>Horsepower (electric) to Watts</item>
+        <item>Horsepower (metric) to Watts</item>
+        <item>Kilograms to Tons (UK or long)</item>
+        <item>Kilograms to Tons (US or short)</item>
+        <item>Litres to Fluid ounces (UK)</item>
+        <item>Litres to Fluid ounces (US)</item>
+        <item>Mach Number to Metres/Second</item>
+        <item>Metres/Second to Feet/Second</item>
+        <item>Metres/Second to Mach Number</item>
+        <item>Miles/Gallon (UK) to Miles/Gallon (US)</item>
+        <item>Miles/Gallon (US) to Miles/Gallon (UK)</item>
+        <item>Newtons to Dynes</item>
+        <item>Pascals to Bars</item>
+        <item>Square Miles to Acres</item>
+        <item>Tons (UK or long) to Kilograms</item>
+        <item>Tons (US or short) to Kilograms</item>
+        <item>Watts to Horsepower (electric)</item>
+        <item>Watts to Horsepower (metric)</item>
+    </string-array>
+    <string-array name="multipliers">
+        <item>0.0015625</item> <!-- Acres to Square Miles -->
+        <item>101325</item> <!--Atmospheres to Pascals  -->
+        <item>100000</item> <!--Bars to Pascals -->
+        <item>0</item> <!--Degrees Celsius to Degrees Fahrenheit -->
+        <item>0</item> <!--Degrees Fahrenheit to Degrees Celsius  -->
+        <item>0.00001</item> <!--Dynes to Newtons  -->
+        <item>0.3048</item> <!--Feet/Second to Metres/Second -->
+        <item>0.028413063</item> <!-- Fluid Ounces (UK) to Litres -->
+        <item>0.02957353</item> <!-- Fluid Ounces (US) to Litres -->
+        <item>746</item> <!--Horsepower (electric) to Watts  -->
+        <item>735.499</item> <!--Horsepower (metric) to Watts  -->
+        <item>0.000984207</item> <!--Kilograms to Tons (UK or long)  -->
+        <item>0.001102311</item> <!--Kilograms to Tons (US or short)  -->
+        <item>35.19507973</item> <!-- Litres to Fluid ounces (UK) -->
+        <item>33.8140227</item> <!--Litres to Fluid ounces (US)  -->
+        <item>331.5</item> <!--Mach Number to Metres/Second  -->
+        <item>3.280839895</item> <!-- Metres/Second to Feet/Second -->
+        <item>0.003016591</item> <!--Metres/Second to Mach Number  -->
+        <item>0.833</item> <!--Miles/Gallon (UK) to Miles/Gallon (US)  -->
+        <item>1.200480192</item> <!--Miles/Gallon (US) to Miles/Gallon (UK)  -->
+        <item>100000</item> <!--Newtons to Dynes  -->
+        <item>0.00001</item> <!--Pascals to Bars  -->
+        <item>640</item> <!--Square Miles to Acres  -->
+        <item>1016.046909</item> <!--Tons (UK or long) to Kilograms  -->
+        <item>907.18474</item> <!--Tons (US or short) to Kilograms -->
+        <item>0.001340483</item> <!--Watts to Horsepower (electric)  -->
+        <item>0.001359621</item> <!-- Watts to Horsepower (metric) -->
+    </string-array>
+
+</resources>
